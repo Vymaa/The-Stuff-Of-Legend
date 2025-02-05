@@ -17,4 +17,4 @@ The modpack is built to create a more immersive atmosphere with Complementary Re
 So, are you the stuff of heroes?
 
 
-Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend
+**Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend**
