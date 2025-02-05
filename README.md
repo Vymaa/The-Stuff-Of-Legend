@@ -8,7 +8,7 @@ This modpack aims to design a carefully balanced gameplay that remains consisten
 
   - You can easily bring your friends along without frustration, thanks to convenient multiplayer features.
 
-  -Enjoy a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
+  - Enjoy a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
 
   - A greater variety of visual and sound effects to create a more vivid and atmospheric effect.
 
