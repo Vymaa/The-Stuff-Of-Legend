@@ -2,7 +2,7 @@
 name: Bug report
 about: You can report me bugs here
 title: ''
-labels: bug
+labels: bug, help wanted, question
 assignees: Neodyme8
 
 ---
