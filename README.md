@@ -1,16 +1,16 @@
-This modpack aims to design a carefully balanced gameplay that remains consistent with the base game, while enhancing its mechanics. Thanks to this precisely configured mods line-up, you can dive straight into the action without needing a guidebook to learn how to play. No game-changing features. Everything is meant to be intuitive.
+This modpack aims to design a carefully balanced gameplay that remains consistent with the base game, while enhancing its mechanics. With its carefully configured mods, you can dive straight into the action without needing a guidebook to learn again how to play Minecraft. Everything is meant to be intuitive, following the functionalities already in place.
 
-  - Experience great adventures without feeling completely out of place. Cross tremendous lands that still have that familiar feeling you're used to. Overcome revamped dungeons as well as exciting new ones.
+  - Experience great adventures without feeling completely out of place. Cross over new lands that retain the familiar feeling you're used to. Overcome revamped dungeons as well as exciting new ones.
 
-  - Face more dangerous, reworked enemies with increasing difficulty as you progress. Bosses and achievements have also been implemented to provide a wider range of goals to accomplish.
+  - Face more dangerous enemies with increasing difficulty as you progress. Bosses and achievements have also been implemented to provide a wider range of goals to accomplish.
 
-  - Become more powerful by applying a wide variety of enchantments to your equipment. Discover a combat system similar to the one of Minecraft Dungeons, with new attack possibilities through the use of easy-to-use spells.
+  - Become more powerful by applying a wider variety of enchantments to your equipment. Apply trims to your armor to gain specific advantages. Master a rethinked combat system inspired by the snapshots to crush your enemies even more effectively.
 
-  - You can easily bring your friends along without frustration, thanks to convenient multiplayer features.
+  - You can easily bring your friends along without frustration, thanks to convenient multiplayer features. Your fellow pets have also been redesigned to reduce the risk of losing them, as well as to make them more helpful.
 
   - Enjoy a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
 
-  - A greater variety of visual and sound effects to create a more vivid and atmospheric effect.
+  - A greater variety of visuals and ambiant sound to create a vivid atmosphere.
 
 The modpack is built to create a more immersive atmosphere with Complementary Reimagined shader, which is deeply customized to shape a unique visual experience while maintaining optimized performance.
 
