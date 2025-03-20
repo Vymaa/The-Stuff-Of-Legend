@@ -4,7 +4,7 @@ This modpack aims to design a carefully balanced gameplay that remains consisten
 
   - Face more dangerous enemies with increasing difficulty as you progress. Bosses and achievements have also been implemented to provide a wider range of goals to accomplish.
 
-  - Become more powerful by applying a wider variety of enchantments to your equipment. Apply trims to your armor to gain specific advantages. Master a rethinked combat system inspired by the snapshots to crush your enemies even more effectively.
+  - Become more powerful by applying a wider variety of enchantments to your equipment. Use amulets, tablets, new weapons and more to gain specific advantages. Master a rethinked combat system inspired by the snapshots to crush your enemies even more effectively.
 
   - You can easily bring your friends along without frustration, thanks to convenient multiplayer features. Your fellow pets have also been redesigned to reduce the risk of losing them, as well as to make them more helpful.
 
@@ -12,9 +12,7 @@ This modpack aims to design a carefully balanced gameplay that remains consisten
 
   - A greater variety of visuals and ambiant sound to create a vivid atmosphere.
 
+
 The modpack is built to create a more immersive atmosphere with Complementary Reimagined shader, which is deeply customized to shape a unique visual experience while maintaining optimized performance.
-
-So, are you the stuff of heroes?
-
 
 **Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend**
