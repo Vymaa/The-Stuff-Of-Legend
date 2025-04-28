@@ -8,11 +8,10 @@ This modpack aims to design a carefully balanced gameplay that remains consisten
 
   - You can easily bring your friends along without frustration, thanks to convenient multiplayer features. Your fellow pets have also been redesigned to reduce the risk of losing them, as well as to make them more helpful.
 
-  - Enjoy a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
+  - Experience a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
 
-  - A greater variety of visuals and ambiant sound to create a vivid atmosphere.
+  - Benefit from a wider variety of visual effects and ambient sounds, immersing you in a livelier atmosphere.
 
+If a more immersive atmosphere is what you're after, you can enable the Complementary Reimagined shader, which is deeply customized to shape a visual experience based on the trailers and Vibrant Visuals.
 
-The modpack is built to create a more immersive atmosphere with Complementary Reimagined shader, which is deeply customized to shape a unique visual experience while maintaining optimized performance.
-
-**Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend**
+Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend
