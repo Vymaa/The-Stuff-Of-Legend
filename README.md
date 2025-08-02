@@ -13,4 +13,4 @@ This modpack aims to design a carefully balanced gameplay that remains consisten
   - Benefit from a wider variety of visual effects and ambient sounds, immersing you in a livelier atmosphere.
 
 
-Download the modpack here: https://modrinth.com/modpack/the-stuff-of-legend
+Link to the modpack: https://modrinth.com/modpack/the-stuff-of-legend
