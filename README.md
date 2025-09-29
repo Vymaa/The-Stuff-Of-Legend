@@ -309,4 +309,4 @@ If you are looking for a more immersive atmosphere, you can enable the [Compleme
 </details>
 
 
-**Link to the modpack: [The Stuff of Legend](https://modrinth.com/modpack/the-stuff-of-legend/settings/description)**
+**Link to the modpack: [The Stuff of Legend](https://modrinth.com/modpack/the-stuff-of-legend)**
