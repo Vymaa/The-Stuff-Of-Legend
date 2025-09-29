@@ -1,22 +1,60 @@
 This modpack aims to design a carefully balanced gameplay that remains consistent with the base game, while enhancing its mechanics. With its carefully configured mods, you can dive straight into the action without needing a guidebook to learn again how to play Minecraft. Everything is meant to be intuitive, following the functionalities already in place.
 
-- Experience great adventures without feeling completely out of place. Cross over new lands that retain the familiar feeling you're used to. Overcome revamped dungeons as well as exciting new ones. 
+- Take part in great adventures without feeling completely out of place. Cross over new lands that retain the familiar feeling you're used to. Overcome revamped dungeons as well as exciting new ones. The Nether and End dimensions have been overhauled too.
 
-- Face more dangerous enemies with increasing difficulty as you progress. New achievements have also been implemented to provide a wider range of goals to accomplish. 
+- Face more dangerous and diverse enemies (or adorable critters) with increasing difficulty as you progress. New achievements have also been implemented to provide a wider range of goals to accomplish and to guide you in your journey.
   
-- Become more powerful by applying a wider variety of enchantments to your equipment. Use new weapons and more to gain specific advantages. Master a rethinked combat system inspired by the snapshots to crush your enemies even more effectively.
+- Become more powerful by applying a wider variety of enchantments to your equipment. Use new weapons and more to gain specific advantages that will help you in all kinds of situations. Master a rethinked combat system inspired by the snapshots to crush your enemies even more effectively.
   
 - You can easily bring your friends along to your singleplayer worlds with handy multiplayer features.
 
-- Experience a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features.
-
 - Benefit from a wider variety of visual effects, musics and ambient sounds, immersing you in a livelier atmosphere.
+
+- Experience a smoother, more enjoyable gameplay than before, thanks to a bunch of quality-of-life features: 
+
+<details>
+<summary>QoL summary</summary>
+  
+  - World Map ('m')
+  - Minimap (' , ')
+  - Full controller support
+  - Extended Locator Bar
+  - Gravestones
+  - Sit on slabs and stairs
+  - Improved third person view
+  - Crawl ('x')
+  - Protected pets from PvP
+  - Dynamic lighting (even without shaders) when holding an item which emits light
+  - Hands-free belt lantern ('b')
+  - Makes golden armor trims pacify piglins
+  - More comprehensive tooltips
+  - Inventory sorting and quick transfers 
+  - Keybind to zoom if you have a spyglass in your inventory ('c') 
+  - Totems of Undying work anywhere in your hotbar 
+  - True step-assist instead of auto-jump (can be disabled)
+  - Improved Recipe Book
+  - Farm tweaks (no trempling, fast right click harvest, ...)
+  - Open double doors together
+  - Click through Signs and Item Frames
+  - Draw arrows from bundles like a quiver
+  - Regenerative sleep and campfires
+  - More practical mounts
+  - Improved usage of bundles
+  - Some menus have been redesigned with new management options for resource packs, shader packs and data packs
+  - New HUD elements for greater insight
+  - More practical use of elytra
+  - Some Bedrock features ported (reacharound block placement, third person death camera, raised hotbar, wither fight more challenging, ...)
+  - Simulated ticking in unloaded chunks
+  - Automatically plants sapling drops
+  - More usable map item and improved display of player indicators
+  - And so much more!
+
+</details>
+
 
 ![A view of a snow-capped mountain, surrounded by a plain and a forest](https://cdn.modrinth.com/data/dMb43wJJ/images/e4c9742466c2bd645abf7d9a9d536e785a7d0d57.jpeg)
 
-If you are looking for a more immersive atmosphere, you can enable the Complementary Reimagined shader, which is personalised to deliver a unique visual experience.
-
-**Link to the modpack: https://modrinth.com/modpack/the-stuff-of-legend**
+If you are looking for a more immersive atmosphere, you can enable the [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) shader, which is personalised to deliver a unique visual experience.
 
 <details>
 <summary>Mod list</summary>
@@ -250,4 +288,22 @@ If you are looking for a more immersive atmosphere, you can enable the Complemen
 	<li>sepals by cao_awa</li>
 	<li><a href="https://modrinth.com/mod/EwggGT9A">snowy-ruins_1.21.7-1.21.8</a></li>
 </ul>
+</details>
+
+
+<details>
+<summary>Ressource Packs</summary>
+
+- [Enhanced](https://modrinth.com/resourcepack/jeelh-enhanced)
+- [GUI Simple Stylized](https://modrinth.com/resourcepack/gui-simplestylized)
+- [Dot Crosshair](https://modrinth.com/resourcepack/dot-crosshair)
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+- [Fresh Animations - Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)
+- [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers)
+- [Tasty Items](https://modrinth.com/resourcepack/tasty-items)
+- [Aseprite Fonts](https://modrinth.com/resourcepack/aseprite-fonts)
+- [Icons](https://modrinth.com/resourcepack/icons)
+- [Music and Melody](https://modrinth.com/resourcepack/music-and-melody)
+- [Dungeon Tooltips](https://modrinth.com/resourcepack/dungeon-tooltips)
+
 </details>
